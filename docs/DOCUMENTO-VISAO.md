@@ -17,6 +17,7 @@
   - [Requisitos funcionais](#requisitos-funcionais)
     - [Especificação de casos de uso](#especificação-de-casos-de-uso)
       - [Caso de uso Manter Viagem – Emanuel Costa](#caso-de-uso-manter-voluntario--mateus-pereira)
+  - [Tabela dos riscos](#tabela-dos-risco)
   - [Lista de regras de negócio](#lista-de-regras-de-negócio)
 
 ## Introdução
