@@ -26,3 +26,7 @@ Otimizando a organização de viagens diárias realizadas com os pacientes para 
    MongoDB](https://www.mongodb.com/compatibility/spring-boot)
  - [Persistência de dados com banco em memória Spring  Boot +
    H2](https://javabydeveloper.com/spring-boot-h2-in-memory-database-example/)
+
+## Documentação
+
+  - [Documento de visão](docs/DOCUMENTO-VISAO.md)
